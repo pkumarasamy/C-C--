@@ -1,4 +1,4 @@
-C-C--
+C-C++
 =====
 
-Problem solving
+Problem solving and programming in C and C++ 
